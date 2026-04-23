@@ -1,0 +1,6 @@
+{
+  "name": "Scalable REST API & Dashboard",
+  "description": "Full-stack scalable REST API with authentication, role-based access, CRUD, and API documentation using Express and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
